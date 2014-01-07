@@ -1,3 +1,5 @@
 ﻿1_currency_intro.md
 2_bitcoin.md
 3_ripple_intro.md
+4_ripple_understands.md
+5_ripple_use.md

@@ -1,2 +1,5 @@
-1_货币概述.md
-3_ripple概述.md
+﻿1_currency_intro.md
+2_bitcoin.md
+3_ripple_intro.md
+4_ripple_understands.md
+5_ripple_use.md
