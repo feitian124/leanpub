@@ -1,11 +1,16 @@
 
 # RIPPLE
+
 {style=poem}
 ~~~~~~  
+ Send money to anyone, anytime anywhere in any currency。
+                    -- 瑞波指南
+
 当http被发明时，没人会想到会诞生谷歌或者youtube这样的网站。  
 类似，也没人能预测ripple的无限潜能。  
-                    -- 瑞波指南  
+                    -- 瑞波指南 
 ~~~~~~
+
 ## 为什么会有ripple
 虽然比特币名气更胜，实际Ripple系统的历史早于比特币。2004年工程师Ryan Fugger的推出了第一版Ripple；后来Mt.Gox的创始人Jed McCaleb，加上曾经在网络金融领域有多年创业经验Chris Larsen，两者共同成立了OpenCoin来接管Ripple，负责运行和维护Ripple的平台。Ripple 致力于打造一个分布式的点对点的支付和交换系统， 且支持任意的币种，无论美元，人民币，比特币都没问题。
 
